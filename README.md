@@ -26,7 +26,7 @@ Once cloned, you can open the CSV or JSON file in any text editor or data analys
 
 ## Contributing
 
-Contributions are welcome! If you come across a trending AI paper that is not included in the list, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you come across a trending AI paper that is not included in the list, feel free to open an issue or submit a pull request. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to learn about our community norms.
 
 ## Future Plans
 
