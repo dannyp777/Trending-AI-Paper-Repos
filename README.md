@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Project_Status-Alpha-yellow)(https://github.com/dannyp777/Trending-AI-Paper-Repos)
+![Static Badge](https://img.shields.io/badge/Project_Status-Alpha-yellow?link=https%3A%2F%2Fgithub.com%2Fdannyp777%2FTrending-AI-Paper-Repos)
 
 # Trending-AI-Paper-Repos
 Curated AI/ML/DL research papers for researchers, analysts, academics, hackers, and tech professionals.
