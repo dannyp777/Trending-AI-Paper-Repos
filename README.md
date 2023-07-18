@@ -11,7 +11,7 @@ The repository currently includes the following files:
 
 - [trendingAIPaperRepos.csv](assets/trendingAIPaperRepos.csv)    : A CSV file containing a list of trending AI papers.
 - [trendingAIPaperRepos.json](assets/trendingAIPaperRepos.json)  : A JSON file containing the same list in a different format.
-- [trendingAIPaperRepos.skl](assets/trendingAIPaperRepos.sql)    : An SQL file containing the same list in a different format.
+- [trendingAIPaperRepos.sql](assets/trendingAIPaperRepos.sql)    : An SQL file containing the same list in a different format.
 
 In the future, an SQLite database file may be added to provide another way to access and query the data.
 
